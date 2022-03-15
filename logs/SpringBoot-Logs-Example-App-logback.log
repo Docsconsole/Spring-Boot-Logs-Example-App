@@ -1,0 +1,19 @@
+15-03-2022 18:47:57.717 [main] INFO  c.d.t.SpringBootCurdApplication.logStarting - Starting SpringBootCurdApplication on AmarSivas with PID 3300 (D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\target\classes started by Bangi in D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App)
+15-03-2022 18:47:57.764 [main] DEBUG c.d.t.SpringBootCurdApplication.logStarting - Running with Spring Boot v2.3.6.RELEASE, Spring v5.2.11.RELEASE
+15-03-2022 18:47:57.764 [main] INFO  c.d.t.SpringBootCurdApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+15-03-2022 18:48:00.625 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+15-03-2022 18:48:00.641 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+15-03-2022 18:48:00.641 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.39]
+15-03-2022 18:48:00.844 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+15-03-2022 18:48:00.844 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2924 ms
+15-03-2022 18:48:01.422 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+15-03-2022 18:48:01.828 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+15-03-2022 18:48:01.844 [main] INFO  c.d.t.SpringBootCurdApplication.logStarted - Started SpringBootCurdApplication in 5.613 seconds (JVM running for 9.056)
+15-03-2022 18:48:21.338 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15-03-2022 18:48:21.346 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+15-03-2022 18:48:21.362 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 16 ms
+15-03-2022 18:48:21.414 [http-nio-8080-exec-2] DEBUG c.d.t.s.ProductServicelogBackImpl.getAllProducts - Test debug message
+15-03-2022 18:48:24.496 [http-nio-8080-exec-3] DEBUG c.d.t.c.ProductsControllerLogback.testWeb - A DEBUG Message @testWeb
+15-03-2022 18:48:24.500 [http-nio-8080-exec-3] INFO  c.d.t.c.ProductsControllerLogback.testWeb - An INFO Message @testWeb
+15-03-2022 18:48:24.500 [http-nio-8080-exec-3] WARN  c.d.t.c.ProductsControllerLogback.testWeb - A WARN Message @testWeb
+15-03-2022 18:48:24.500 [http-nio-8080-exec-3] ERROR c.d.t.c.ProductsControllerLogback.testWeb - An ERROR Message @testWeb

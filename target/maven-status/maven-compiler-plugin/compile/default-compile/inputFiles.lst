@@ -1,0 +1,8 @@
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\dtos\ProductDTO.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\model\Product.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\service\ProductServicelogBackImpl.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\repository\ProductRepository.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\service\ProductServiceLog4jImpl.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\controllers\ProductsControllerLog4j.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\controllers\ProductsControllerLogback.java
+D:\docsconsole-git-master\springboot-master\Spring-Boot-Logs-Example-App\src\main\java\com\docsconsole\tutorials\SpringBootCurdApplication.java

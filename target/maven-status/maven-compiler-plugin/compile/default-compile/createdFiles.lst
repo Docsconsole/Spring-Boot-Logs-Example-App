@@ -1,0 +1,7 @@
+com\docsconsole\tutorials\controllers\ProductsControllerLog4j.class
+com\docsconsole\tutorials\model\Product.class
+com\docsconsole\tutorials\SpringBootCurdApplication.class
+com\docsconsole\tutorials\dtos\ProductDTO.class
+com\docsconsole\tutorials\service\ProductServiceLog4jImpl.class
+com\docsconsole\tutorials\controllers\ProductsControllerLogback.class
+com\docsconsole\tutorials\service\ProductServicelogBackImpl.class

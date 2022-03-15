@@ -1,0 +1,115 @@
+{
+	"info": {
+		"_postman_id": "07c8e583-c463-421b-85d0-f7baf70dd3a4",
+		"name": "Spring-Boot-Logs-Example-App",
+		"description": "Spring-Boot-Curd-Example-App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "logback",
+			"item": [
+				{
+					"name": "curd-app/api/products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/curd-app/api/logback/products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"curd-app",
+								"api",
+								"logback",
+								"products"
+							]
+						},
+						"description": "GetAllProducts"
+					},
+					"response": []
+				},
+				{
+					"name": "curd-app/api/testweb",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/curd-app/api/logback/testWeb",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"curd-app",
+								"api",
+								"logback",
+								"testWeb"
+							]
+						},
+						"description": "GetAllProducts"
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "log4j",
+			"item": [
+				{
+					"name": "curd-app/api/products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/curd-app/api/log4J/products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"curd-app",
+								"api",
+								"log4J",
+								"products"
+							]
+						},
+						"description": "GetAllProducts"
+					},
+					"response": []
+				},
+				{
+					"name": "curd-app/api/testweb",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/curd-app/api/log4J/testWeb",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"curd-app",
+								"api",
+								"log4J",
+								"testWeb"
+							]
+						},
+						"description": "GetAllProducts"
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
